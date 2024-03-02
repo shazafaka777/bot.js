@@ -1,0 +1,21 @@
+{
+  "name": "dss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  },
+  "dependencies": {
+    "discord-api-types": "^0.37.71",
+    "discord.js": "^14.14.1",
+    "events": "^3.3.0",
+    "update": "^0.7.4"
+  }
+}
